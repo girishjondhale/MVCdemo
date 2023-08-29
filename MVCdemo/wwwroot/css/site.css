@@ -16,3 +16,65 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.foot-panel2 {
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+    ul a {
+        display: block;
+        color: #dddddd;
+        margin-top: 10px;
+    }
+
+.foot-panel3 {
+    background-color: #222f3d;
+    color: white;
+    height: 300px;
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 20px;
+}
+
+    ul a {
+        display: block;
+        color: #dddddd;
+        margin-top: 10px;
+    }
+
+body {
+    background-color: #f6f1f1
+}
+
+.abu {
+    position: relative;
+    margin-top: 100px;
+    padding-left: 4%;
+    height:400px;
+    background-color:aliceblue;
+}
+
+/* /for laptop/*/
+h1 {
+    font-size: 70px;
+}
+
+p {
+    text-align: center;
+}
+.aa{
+    color:blue;
+}

@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h4>
+    @ViewData["message"]
+</h4>
+
+<ol>
+    @foreach (string s in (IEnumerable<string>) ViewData["colours"])
+    {
+     <li>
+         @s
+     </li>   
+    }
+</ol>
